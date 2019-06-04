@@ -20,7 +20,7 @@ The objective of this project:
 | M4. Insecure Authentication | <ul><li>Client-Side Based Authentication Flaw</li><li>Account Enumeration</li><li>Account Lockout Policy</li><li>Weak Password Policy for Password/PIN</li><li>Misuse of Biometric Authentication</li><li>Session Management Flaw</li></ul> | 
 | M5. Insufficient Cryptography | <ul><li>Hardcoded Encryption Key</li><li>Weak Cryptographic Algorithm</li><li>Custom Encryption Protocol</li></ul> | 
 | M6. Insecure Authorization  | <ul><li>Insecure Direct Object Reference</li><li>Business Logic Flaw</li></ul> | 
-| M7 Client Code Quality      | <ul><li>SQL Injection on Content provider</li><li>Insecure URL Scheme Handler</li></ul> | 
+| M7. Client Code Quality      | <ul><li>SQL Injection on Content provider</li><li>Insecure URL Scheme Handler</li></ul> | 
 | M8. Code Tampering | <ul><li>Unauthorized Code Modification (Application Patching)</li><li>Weak Root/Jailbreak Detection</li><li>Method Swizzling</li></ul> | 
 | M9. Reverse Engineering | <ul><li>Lack of Code Obfuscation</li></ul> | 
 | M10. Extraneous Functionality | <ul><li>Application Debuggable</li><li>Hidden Endpoint Exposure</li></ul> | 
